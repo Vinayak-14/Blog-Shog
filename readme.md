@@ -4,13 +4,6 @@
 
 https://user-images.githubusercontent.com/85126091/169657155-c1728ca1-4704-407c-a1bd-a0d5b3667027.mp4
 
-# Screen-Grabs:  
-
-![photo1653145372 (2)](https://user-images.githubusercontent.com/85126091/169657390-d2c99bf0-3278-4301-8dfd-05699168782a.jpeg)
-
-![photo1653145372](https://user-images.githubusercontent.com/85126091/169660213-5ebd8190-4a66-4fad-818f-d58f1cffa4d4.jpeg)
-
-![photo1653145372 (2)](https://user-images.githubusercontent.com/85126091/169660225-24326143-00f4-4e85-82a5-d561bb423860.jpeg)
 
 # Blogging Website using pure HTML, CSS and JS. 
 
