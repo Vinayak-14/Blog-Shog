@@ -1,6 +1,4 @@
-# Live-Website : https://6288f90cc56f591b10d1cef0--effortless-crepe-07286c.netlify.app/
-
-# Demo :
+# Video :
 
 https://user-images.githubusercontent.com/85126091/169657155-c1728ca1-4704-407c-a1bd-a0d5b3667027.mp4
 
